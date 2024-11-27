@@ -1,3 +1,4 @@
+*.googlevideo.com
 r1---sn-25ge7ns7.googlevideo.com
 r1---sn-2gb7sn7r.googlevideo.com
 r1---sn-2gb7sn7s.googlevideo.com
