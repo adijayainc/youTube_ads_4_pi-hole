@@ -1,2 +1,4 @@
 *.twitter.com
+twitter.com
 *.x.com
+x.com
