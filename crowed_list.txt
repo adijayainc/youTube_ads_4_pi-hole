@@ -2,3 +2,5 @@
 twitter.com
 *.x.com
 x.com
+www.twitter.com
+www.x.com
