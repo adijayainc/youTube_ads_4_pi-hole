@@ -1,6 +1,24 @@
-*.twitter.com
-twitter.com
-*.x.com
-x.com
-www.twitter.com
-www.x.com
+#*.twitter.com
+#twitter.com
+#*.x.com
+#x.com
+#www.twitter.com
+#www.x.com
+#Blocking Instagram Domains
+instagram.c10r.facebook.com
+api.instagram.com
+black.ish.instagram.com
+i.instagram.com
+instagram-shv-01-ams2.fbcdn.net
+(\.|^)fbcdn\.net$
+instagram-shv-17-prn1.fbcdn.net
+instagram-shv-18-prn1.fbcdn.net
+instagram.com
+instagramstatic-a.akamaihd.net
+instagramstatic-a.akamaihd.net.edgesuite.net
+platform.instagram.com
+scontent-iad3-1.cdninstagram.com
+scontent.cdninstagram.com
+telegraph-ash.instagram.com
+0 white.ish.instagram.com
+www.instagram.com
